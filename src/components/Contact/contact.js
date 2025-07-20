@@ -27,8 +27,7 @@ const Contact = () => {
             <div id="clients">
                 <h1 className="contactPageTitle">My Achievements </h1>
                 <span className="clientDesc">
-                    I have had the opportunity to work with a diverse group of companies. 
-                    Some of the notable companies I have worked with includes
+                    These achievements highlight my passion for coding, consistent learning, and building real-world projects. I’m always eager to take on new challenges and grow as a developer.
                 </span>
                 <div className="clientImgs"> 
 
